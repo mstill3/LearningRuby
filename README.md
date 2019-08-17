@@ -1,2 +1,2 @@
-# Ruby101
+# Ruby
 My Guide to Ruby 
